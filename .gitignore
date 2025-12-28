@@ -1,4 +1,7 @@
 
+/._site/
 /.quarto/
 **/*.quarto_ipynb
 /.DS_Store
+/.vscode
+
