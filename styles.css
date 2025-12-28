@@ -1,1 +1,48 @@
-/* css styles */
+/* Center everything in the left column */
+.profile-column {
+    text-align: center;
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
+
+.description-column {
+    text-align: justify;
+    padding-left: 2rem;
+}
+
+/* Circular profile picture with border */
+.profile-pic {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #aaa;
+    margin-bottom: 0rem;
+    object-position: center 20%;
+}
+
+/* Name styling */
+.profile-name {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+/* Position title */
+.profile-title {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: #555;
+}
+
+/* Organization */
+.profile-org {
+    font-size: 1rem;
+    color: #666;
+}
+
+.justify {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+}
