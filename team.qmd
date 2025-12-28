@@ -1,5 +1,10 @@
 ---
-title: "Team"
+title: ""
+page-layout: full
+format: html
+toc: false
 ---
 
-About this site
+## Current Students
+
+## Former Students

@@ -1,8 +1,36 @@
 ---
-title: "Paul Lafourcade"
+title: ""
+page-layout: full
+format:
+  html:
+    css: styles.css
 ---
 
-This is a Quarto website.
+:::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="20%" .profile-column}
 
+![](/_static/profile.jpg){.profile-pic}
+
+<div class="profile-name">Paul Lafourcade</div>
+<div class="profile-title">PhD, Research Engineer</div>
+<div class="profile-org">LMCE, Bruyères-le-Châtel, France</div>
+
+:::
+
+::: {.column width="80%" .description-column}
+
+## About me
+
+I am a computational physicist specializing in the mechanical response of crystalline materials under extreme conditions, including high strain rates and shock loading. I am currently a researcher at the Laboratory for Matter in Extreme Conditions ([LMCE](https://www-lmce.cea.fr)), a CEA entity located in Bruyères-le-Châtel, France.
+
+A significant part of my current work is devoted to the development of the open-source molecular dynamics (MD) code **exaStamp**, available on [GitHub {{< fa brands github size=lg >}}](https://github.com/Collab4exaNBody/exaStamp), along with its corresponding [documentation {{< fa book size=lg >}}](https://collab4exanbody.github.io/doc_exaStamp).
+
+
+## My [GitHub](https://github.com/lafourcadep) content
+
+Work in progress..
+
+:::
+
+::::

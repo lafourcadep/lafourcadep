@@ -1,5 +1,8 @@
 ---
-title: "News"
+title: ""
+page-layout: full
+format: html
+toc: false
 ---
 
-About this site
+News to come.

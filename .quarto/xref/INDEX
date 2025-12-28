@@ -1,6 +1,7 @@
 {
   "index.qmd": {
-    "index.html": "785977c8"
+    "index.html": "785977c8",
+    "index.md": "06967484"
   },
   "about.qmd": {
     "about.html": "8ecfed42"
@@ -19,5 +20,9 @@
   },
   "publications.qmd": {
     "publications.html": "31db39ce"
+  },
+  "example.qmd": {
+    "example.html": "f0f02d4b",
+    "example.tex": "e2f4c400"
   }
 }

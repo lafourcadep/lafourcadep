@@ -4,6 +4,11 @@ project:
 website:
   title: "PL"
   navbar:
+    background: primary
+    foreground: black
+    search: true
+    pinned: true
+#    logo: "_static/logo.jpeg"
     left:
       - href: index.qmd
         text: Home
@@ -11,16 +16,22 @@ website:
         text: News
       - href: team.qmd
         text: Team
+      - href: codes.qmd
+        text: Codes        
       - href: publications.qmd
         text: Publications
-      - href: codes.qmd
-        text: Codes
-
+    right:
+      - text: "{{< fa brands google-scholar size=lg >}}"
+        href: https://scholar.google.com/citations?user=UVKEf6cAAAAJ&hl=en
+      - text: "{{< fa brands github size=lg >}}"
+        href: https://github.com/lafourcadep
+ 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cyborg
-      - brand
+      light: minty
+      dark: cyborg
     css: styles.css
     toc: true
 
