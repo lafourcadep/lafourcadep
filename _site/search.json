@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paul Lafourcade",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul Lafourcade",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "news.html",
@@ -28,16 +28,16 @@
     "text": "About this site"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "PL",
+    "objectID": "codes.html",
+    "href": "codes.html",
+    "title": "Codes",
     "section": "",
     "text": "About this site"
   },
   {
-    "objectID": "codes.html",
-    "href": "codes.html",
-    "title": "Codes",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "PL",
     "section": "",
     "text": "About this site"
   }
