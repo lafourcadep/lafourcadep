@@ -10,7 +10,9 @@ format:
 
 ::: {.column width="20%" .profile-column}
 
-![](/_static/profile.jpg){.profile-pic}
+<div class="profile-pic-wrapper">
+  ![](/_static/profile.jpg)
+</div>
 
 <div class="profile-name">Paul Lafourcade</div>
 <div class="profile-title">PhD, Research Engineer</div>
