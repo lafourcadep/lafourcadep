@@ -21,6 +21,23 @@
     object-position: center 20%;
 }
 
+.profile-pic-wrapper {
+  width: 180px;
+  height: 180px;
+  margin: 0 auto 1rem auto;
+
+  border-radius: 50%;
+  border: 3px solid #444;
+  overflow: hidden;            /* 🔑 this enforces the mask */
+}
+
+.profile-pic-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%; /* vertical shift */
+}
+
 /* Name styling */
 .profile-name {
     font-size: 1.4rem;
