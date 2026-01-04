@@ -14,11 +14,25 @@
     "text": "About this site"
   },
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "PL",
+    "section": "",
+    "text": "Théo Pargana\n\n\n\n\n\nEliott Dubois\nBaptiste Labonne"
+  },
+  {
+    "objectID": "team.html#current-students",
+    "href": "team.html#current-students",
+    "title": "PL",
+    "section": "",
+    "text": "Théo Pargana\n\n\n\n\n\nEliott Dubois\nBaptiste Labonne"
+  },
+  {
     "objectID": "team.html#former-students",
     "href": "team.html#former-students",
     "title": "PL",
     "section": "Former Students",
-    "text": "Former Students"
+    "text": "Former Students\n\nPhD\n\nFranck Polewczyk\nEliott Dubois\n\n\n\nPost-docs\n\nMarco Echeverria-Iriarte\n\n\n\nInternship\n\nGuillaume Ewald\nJérôme Roche\nEléonore Duval\nNadjib Bennoura\nRayane Mouhli"
   },
   {
     "objectID": "index.html",
@@ -40,6 +54,13 @@
     "title": "PL",
     "section": "",
     "text": "Work in progress.."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "PL",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "publications.html",
