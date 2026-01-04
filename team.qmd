@@ -7,4 +7,30 @@ toc: false
 
 ## Current Students
 
+### PhD
+
+- Théo Pargana
+
+### Post-docs
+
+- Eliott Dubois
+- Baptiste Labonne
+
 ## Former Students
+
+### PhD
+
+- Franck Polewczyk
+- Eliott Dubois
+
+### Post-docs
+
+- Marco Echeverria-Iriarte
+
+### Internship
+
+- Guillaume Ewald
+- Jérôme Roche
+- Eléonore Duval
+- Nadjib Bennoura
+- Rayane Mouhli

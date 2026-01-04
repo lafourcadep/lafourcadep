@@ -14,12 +14,14 @@ website:
         text: Home
       - href: news.qmd
         text: News
-      - href: team.qmd
-        text: Team
       - href: codes.qmd
-        text: Codes        
+        text: Codes      
+      - href: team.qmd
+        text: Team  
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks        
     right:
       - text: "{{< fa brands google-scholar size=lg >}}"
         href: https://scholar.google.com/citations?user=UVKEf6cAAAAJ&hl=en
