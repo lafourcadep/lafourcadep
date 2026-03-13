@@ -7,25 +7,18 @@
     "text": "Ovito Modifiers\n\nS2TXA\n\n\nSVA\n\n\n…"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "PL",
     "section": "",
-    "text": "Théo Pargana\n\n\n\n\n\nEliott Dubois\nBaptiste Labonne"
+    "text": "Théo Pargana (since October, 2024)\nVictor Hamelin (since March, 2026)\n\n\n\n\n\nEliott Dubois (since May, 2025)\nBaptiste Labonne (since August, 2025)"
   },
   {
     "objectID": "team.html#current-students",
     "href": "team.html#current-students",
     "title": "PL",
     "section": "",
-    "text": "Théo Pargana\n\n\n\n\n\nEliott Dubois\nBaptiste Labonne"
+    "text": "Théo Pargana (since October, 2024)\nVictor Hamelin (since March, 2026)\n\n\n\n\n\nEliott Dubois (since May, 2025)\nBaptiste Labonne (since August, 2025)"
   },
   {
     "objectID": "team.html#former-students",
@@ -33,6 +26,13 @@
     "title": "PL",
     "section": "Former Students",
     "text": "Former Students\n\nPhD\n\nFranck Polewczyk\nEliott Dubois\n\n\n\nPost-docs\n\nMarco Echeverria-Iriarte\n\n\n\nInternship\n\nGuillaume Ewald\nJérôme Roche\nEléonore Duval\nNadjib Bennoura\nRayane Mouhli"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "PL",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -56,11 +56,11 @@
     "text": "Work in progress.."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
+    "objectID": "news.html",
+    "href": "news.html",
     "title": "PL",
     "section": "",
-    "text": "About this site"
+    "text": "News to come."
   },
   {
     "objectID": "publications.html",
@@ -70,10 +70,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "PL",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "News to come."
+    "text": "About this site"
   }
 ]
